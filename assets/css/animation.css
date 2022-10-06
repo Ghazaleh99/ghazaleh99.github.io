@@ -8,7 +8,7 @@
   .container p:nth-child(1) {
     white-space: nowrap;
     overflow: hidden;
-    width: 84%;
+    width: 100%;
     animation: type 2s steps(40,end) forwards;
   }
   
