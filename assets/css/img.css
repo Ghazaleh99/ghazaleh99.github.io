@@ -1,0 +1,24 @@
+img.proj{
+    float: left;
+    width:  35%;
+    height: 35%;
+    object-fit: contain;
+}
+
+h3.proj{
+    width: 62%;
+    height: 62%;
+    
+    /* border: 1px solid gray; */
+    float: left;
+    /* text-align: left; */ 
+}
+
+p.proj{
+    width: 97%;
+    height: 48%;
+    
+    /* border: 1px solid gray; */
+    float: left;
+    /* text-align: left; */ 
+}
