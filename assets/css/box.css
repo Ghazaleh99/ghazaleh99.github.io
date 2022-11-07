@@ -1,0 +1,19 @@
+p.box{
+    width: 97%;
+    height: 48%;
+    
+    border: 1px solid gray;
+    /* float: left; */
+    /* text-align: left; */ 
+}
+h2.box{
+    width: 97%;
+    height: 1%;
+    text-align: center;
+    border: 1px solid gray;
+    /* float: left; */
+    /* text-align: left; */ 
+}
+p.left{
+    text-align: left;
+  }
